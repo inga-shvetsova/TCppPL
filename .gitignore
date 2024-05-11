@@ -1,0 +1,8 @@
+*.obj
+*.[oa]
+*~
+
+# Precompiled Headers
+*.gch
+*.pch
+
