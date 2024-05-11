@@ -1,4 +1,4 @@
-# TCppPL
+# TC++PL
 Self-assesment on exercise completion from the book *"The C++ Programming Language"* by [Bjarne Stroustrup](https://www.stroustrup.com/index.html)
 
 > 
