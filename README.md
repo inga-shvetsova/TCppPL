@@ -10,12 +10,12 @@ Self-assesment on exercise completion from the book *"The C++ Programming Langua
 # Compiling and executing a C++ program:
 Using `g++` - GNU built-in command line compiler present in most Linux distributions.
 ```
-  $ g++ source-file.cpp -o object-code.o
+  $ g++ your-source-file.cpp -o object-code.o
   $ ./object-code.o
 ```
 
 If using `gcc` (Not reccomended):
 ```
-  $ gcc -Wall source-file.cpp -lstdc++ -o object-code.o
-  $ ./obhect-code.o
+  $ gcc -Wall your-source-file.cpp -lstdc++ -o object-code.o
+  $ ./object-code.o
 ```
