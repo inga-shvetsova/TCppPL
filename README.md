@@ -14,7 +14,7 @@ Using `g++` - GNU built-in command line compiler present in most Linux distribut
   $ ./object-code.o
 ```
 
-If using `gcc` (Not reccomended):
+If using `gcc` (Not recommended):
 ```
   $ gcc -Wall your-source-file.cpp -lstdc++ -o object-code.o
   $ ./object-code.o
