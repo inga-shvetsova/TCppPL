@@ -5,7 +5,7 @@ Self-assesment on exercise completion from the book *"The C++ Programming Langua
 >
 > ![A photograph of Bjarne.](../main/bjarne-stroustrup.jpg)
 > 
-> Image courtesy: [linkedin.com](https://www.linkedin.com/in/bjarnestroustrup)
+> Image courtesy of: [linkedin.com](https://www.linkedin.com/in/bjarnestroustrup)
 
 # Compiling and executing a C++ program:
 Using `g++` - GNU built-in command line compiler present in most Linux distributions.
